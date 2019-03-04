@@ -384,15 +384,7 @@ html.js,
 }
 
 
-/* related */
 
-.content--related {
-	margin: 3em 0 0;
-	padding: 20vmin 2em;
-	text-align: center;
-	color: #595867;
-	background: #302f3c;
-}
 
 .content__title {
 	font-family: 'nexa_boldregular', sans-serif;
